@@ -1,0 +1,3 @@
+Actividad 2: Máquina Expendedora de Billetes de Metro (Actividades y Estados)
+Contexto: Vamos a modelar la lógica de una máquina automática donde el comportamiento depende mucho
+del estado del objeto "Billete" y de la lógica del proceso.
